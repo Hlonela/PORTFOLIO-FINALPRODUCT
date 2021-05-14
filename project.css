@@ -1,0 +1,88 @@
+/* .project-section .project-content {
+  display: flex-end;
+  justify-items: center;
+  margin-top: 60px;
+  margin-bottom: 60px;
+
+  font-size: 20px;
+  border-bottom-color: rgba(0, 0, 0, 0.2);
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+}
+.project-section .project-content h1 {
+  font-size: 40px;
+  text-align: left;
+}
+
+.project-section .project-content p {
+  font-size: 20px;
+}
+.project-section .project-content h3 {
+  color: black;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+.project-section .project-content p {
+  font-size: 16px;
+  line-height: 24px;
+}
+.project-section .project-content .pro {
+  padding: 15px 25px;
+}
+
+.project-section .project-content .fab {
+  font-size: 50px;
+}
+
+#pro1 {
+  display: grid;
+  align-items: center;
+  background-color: orange;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+#pro2 {
+  display: grid;
+  align-items: center;
+  background-color: greenyellow;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+#pro3 {
+  background: rgba(255, 255, 255, 0.6);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  display: grid;
+  align-items: center;
+  background-color: pink;
+}
+.project-section {
+  max-width: 1170px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+}
+.left-content h1 {
+  color: goldenrod;
+}
+
+.project-section .project-content * {
+  justify-items: space-between;
+}
+
+@media (min-width: 768px) {
+  .project-section .project-content {
+    display: flex;
+  }
+} */
